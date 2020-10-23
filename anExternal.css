@@ -1,0 +1,40 @@
+body {
+  background-color: moccasin;
+}
+
+.first {
+    font-family: "Tw Cen MT";
+}
+
+.second {
+    font-family: "Georgia";
+}
+
+h3 {
+  border-style: dotted;
+  border-width: 2px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.border {
+  border: solid 2px black;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.side {
+  float: right;
+}
