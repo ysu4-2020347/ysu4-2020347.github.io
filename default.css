@@ -1,0 +1,33 @@
+p {
+     font-family:"Verdana";
+}
+li {
+     font-family: "Georgia";
+}
+h1 {
+     font-family: "Swiss";
+     text-shadow: 7px 7px 9px royalblue;
+}
+h2 {
+     text-align: right;
+     margin: 2px;
+}
+h3 {
+     text-decoration: underline 3px orange;
+     font-style: italic;
+}
+.service-box {
+     margin: 15px;
+     border-radius: 20px;
+}
+.product-box {
+     border-style: dashed;
+     border-width: 3px;
+     border-color: orange;
+}
+.yellow_bg {
+     border-style: dotted;
+     border-color: white;
+     border-width: 5px;
+     box-shadow: 10px 5px 40px 10px black;
+}
